@@ -1,5 +1,0 @@
----
-- hosts: compute
-  roles:
-    - nova-common
-    - nova-compute

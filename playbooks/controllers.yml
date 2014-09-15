@@ -10,8 +10,7 @@
     - glance
     - cinder
     - neutron
-    - nova-common
-    - nova-control
+    - nova/controller
     - heat
     - horizon
     - mongodb
